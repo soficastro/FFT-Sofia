@@ -1,6 +1,7 @@
 Repositório para a disciplina de Sinais e Sistemas
 
 Aluno: Sofia Lopes
+
 Professor: Ícaro Bezerra
 
 Aqui se encontra o código referente a implementação da Fast Fourier Transform, conforme o algoritmo de James W. Cooley e John
